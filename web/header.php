@@ -11,12 +11,12 @@ error_reporting( E_ALL&~E_NOTICE );
 <meta name="description" content="Youtube镜像" />
 
 <meta content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=0" name="viewport" />
-<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" >
-<link href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.0.6/css/swiper.min.css" rel="stylesheet"> 
-<script src="//code.jquery.com/jquery/2.1.4/jquery.js"></script>
-<script src="//code.jquery.com/jqueryui/1.11.2/jquery-ui.js"></script>
-<link href="//code.jquery.com/video.js/5.20.4/alt/video-js-cdn.min.css" rel="stylesheet" />
-<script src="//code.jquery.com/video.js/5.20.4/video.min.js"></script>
+<link rel="stylesheet" href="//cdn.bootcss.com/font-awesome/4.7.0/css/font-awesome.min.css" >
+<link href="https://cdn.bootcss.com/ajax/libs/Swiper/4.0.6/css/swiper.min.css" rel="stylesheet"> 
+<script src="//cdn.bootcss.com/jquery/2.1.4/jquery.js"></script>
+<script src="//cdn.bootcss.com/jqueryui/1.11.2/jquery-ui.js"></script>
+<link href="//cdn.bootcss.com/video.js/5.20.4/alt/video-js-cdn.min.css" rel="stylesheet" />
+<script src="//cdn.bootcss.com/video.js/5.20.4/video.min.js"></script>
 <script type="text/javascript" src="./inc/4.js"></script>
 <link rel="stylesheet" href="./inc/theme.css" type="text/css">
 <link rel="stylesheet" href="./inc/iconfont.css">
